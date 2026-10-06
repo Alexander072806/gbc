@@ -8,7 +8,7 @@
 
 
 
-
+## Class Schedule
 
   ### Monday
     + 12:00 - COMP1151 - IT Essentials

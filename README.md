@@ -6,7 +6,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [comp1238.md file](comp1238.md)
 
-## Classes
+## Class Schedule
   - Monday
     - 12:00 - COMP1151 - IT Essentials
     - 14:00 - COMP1236 - Fundementals of Computing Logic
